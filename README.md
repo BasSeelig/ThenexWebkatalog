@@ -1,1 +1,1 @@
-# ThenexWebkatalog
+# Thenex Webkatalog
